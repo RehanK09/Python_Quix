@@ -15,4 +15,4 @@ It helps me apply basics like input/output, conditionals, and functions.
 ## ⚡ How to Run
 Clone the repo and run:
 ```bash
-python quiz.py
+First_Project_QuizGame.py
