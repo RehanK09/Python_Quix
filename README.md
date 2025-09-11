@@ -5,7 +5,7 @@ A simple Python-based quiz application built as part of my learning journey.
 ## 📌 Features
 - Asks multiple questions
 - Displays correct/incorrect answers
-- (Upcoming) Score tracking system
+- Score tracking system
 - (Upcoming) Randomized questions
 
 ## 🚀 Purpose

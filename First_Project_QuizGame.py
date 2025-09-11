@@ -51,4 +51,7 @@ if answer.lower()=="ram":
 else:
     print("Incorrect! Answer is 'ram' ")
 
-print("Your Score is:",score)
+#can use print("You got " + str(score) + "Questions Correct!")
+print("Your Score is:",score)       
+#OR print("{:.0f}%".format(score/3*100)) 
+#OR print(str(score/3*100))
